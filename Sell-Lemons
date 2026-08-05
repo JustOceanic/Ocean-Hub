@@ -1,6 +1,3 @@
---// Oceanix Sell Lemons Hub
---// Part 1/3
-
 local Oceanix = loadstring(game:HttpGet(
     "https://raw.githubusercontent.com/JustOceanic/Oceanix/refs/heads/main/Oceanix"
 ))()
@@ -374,10 +371,6 @@ Extra:CreateToggle({
     end
 
 })
-
---// OCEANIX SELL LEMONS HUB
---// PART 3/3 FINAL
---// MISC + STARTUP
 
 
 local Lighting = game:GetService("Lighting")
